@@ -14,7 +14,7 @@
       "src": "android"
     }
   },
-  "description": "The Onlpass API provides the ability to open an in-app browser and subscribe to payment gateways.",
+  "description": "The Onlypass API provides One platform to access all payment and fintech services across Africa.",
   "devDependencies": {
     "@capacitor/android": "^3.0.0",
     "@capacitor/core": "^3.4.0",
