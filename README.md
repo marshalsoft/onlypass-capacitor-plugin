@@ -13,7 +13,7 @@ npx cap sync
 
 ### Variables
 
-This plugin will use the following project variables:
+This plugin will use the following  parameters:
 * amount:string;
 *gateway:string; // (payment getways e.g paysack,flutterwave,monnify,voguepay) seperated by comma
 * apikey:string;
