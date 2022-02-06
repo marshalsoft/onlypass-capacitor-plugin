@@ -2,6 +2,15 @@
 
 The Onlypass API provides One platform to access all payment and fintech services across Africa.
 
+## Screenshots
+<div >
+<img src="all.png" width="250" alt=" screen 1" style="padding:10px" />
+<img src="flutterwave.png" width="250" alt="screen 2"  style="padding:10px" />
+<img src="monnify.png" width="250" alt="screen 3"  style="padding:10px" />
+<img src="paystack.png" width="250" alt="screen 3"  style="padding:10px" />
+<img src="voguepay.png" width="250" alt="screen 3"  style="padding:10px" />
+</div>
+
 ## Install
 
 ```bash
