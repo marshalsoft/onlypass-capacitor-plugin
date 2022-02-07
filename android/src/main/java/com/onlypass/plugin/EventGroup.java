@@ -1,4 +1,4 @@
-package com.capacitorjs.plugins.browser;
+package com.onlypass.plugin;
 
 /**
  * Simple class to handle indeterminate sequence of events. Not thread safe.

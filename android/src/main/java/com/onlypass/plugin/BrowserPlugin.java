@@ -1,4 +1,4 @@
-package com.capacitorjs.plugins.browser;
+package com.onlypass.plugin;
 
 import android.net.Uri;
 import com.getcapacitor.Logger;

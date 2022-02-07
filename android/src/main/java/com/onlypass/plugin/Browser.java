@@ -1,4 +1,4 @@
-package com.capacitorjs.plugins.browser;
+package com.onlypass.plugin;
 
 import android.content.ComponentName;
 import android.content.Context;
